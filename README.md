@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My Name Is Moeid Khoshbaten
+=============================
+Junior Front End Developer
+=============================
+*   🤝  I'm open to collaborating on interesting projects as a Front End developer
+
+<a href="https://www.twitter.com/MoeidKhoshbaten" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/MoeidKhoshbaten?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+<a href="https://www.github.com/Moeidkh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Moeidkh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
