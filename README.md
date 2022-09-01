@@ -19,6 +19,16 @@ My Name Is Moeid Khoshbaten
 Junior Front End Developer
 =============================
 *   🤝  I'm open to collaborating on interesting projects as a Front End developer
-
-<a href="https://www.twitter.com/MoeidKhoshbaten" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/MoeidKhoshbaten?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
-<a href="https://www.github.com/Moeidkh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Moeidkh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+=============================
+### Skills
+<p align="center">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="35px" height="35px"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="35px" height="35px"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="35px" height="35px"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="35px" height="35px"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="35px" height="35px"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="35px" height="35px"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="35px" height="35px"/>
+</p>
+<p align="center"><a href="https://www.twitter.com/MoeidKhoshbaten" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/MoeidKhoshbaten?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a></p>
+<p align="center"><a href="https://www.github.com/Moeidkh" target="_blank" rel="noreferrer" align="center"><img src="https://img.shields.io/github/followers/Moeidkh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a></p>
