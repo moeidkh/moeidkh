@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 My Name Is Moeid Khoshbaten
 =============================
-Junior Front End Developer
-=============================
+## Junior Front End Developer
+<!--=============================-->
 * 🤝  I'm open to collaborating on interesting projects as a Front End developer
 
 ### Skills
